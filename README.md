@@ -1,20 +1,72 @@
-<h1 align="center">Hi 👋, I'm Celeste</h1>
-<h3 align="center">A passionate web developer from Argentina</h3>
+# Celeste Martin Rodich  
+### **Desarrolladora Full Stack | Next.js & Django**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=universoparalelo" alt="universoparalelo" /></a> </p>
+📍 Resistencia, Chaco, Argentina | 📧 cmartinrodich@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/celeste-martin-rodich) | 🐙 [GitHub](https://github.com/universoparalelo)  
+🌍 **Idiomas:** Español (nativo), Inglés (avanzado técnico)  
 
-- 🌱 I’m currently learning **ASP.NET with C#. I'm taking a course en Udemy of this language and framework.**
+---
 
-- 📫 How to reach me **cmartinrodich@gmail.com**
+## 👩‍💻 Perfil Profesional  
+Desarrolladora Full Stack con experiencia en **Next.js, Django y React**, especializada en crear aplicaciones escalables y eficientes. Apasionada por la optimización de APIs, seguridad de datos y arquitecturas limpias. Combino habilidades técnicas sólidas con una mentalidad colaborativa y orientada a resultados.  
 
-- ⚡ Fun fact **I think I'm capable of adapting on many technologies very fast!**
+**Valores clave:**  
+✔️ **Enfoque en calidad**: Código mantenible y bien documentado.  
+✔️ **Aprendizaje continuo**: Actualmente explorando ciberseguridad y DevOps.  
+✔️ **Comunicación clara**: Fluidez en equipos multidisciplinarios y contextos internacionales.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠️ Habilidades Técnicas  
+**Frontend:**  React, Next.js, HTML/CSS, Tailwind  
+**Backend:**  Django, Node.js, Express, Python 
+**Bases de Datos:**  SQL, MySQL  
+**Herramientas:**  Git, Docker (en aprendizaje), GitHub Actions  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=universoparalelo&show_icons=true&locale=en&layout=compact" alt="universoparalelo" /></p>
+---
 
+## 💼 Experiencia Relevante  
+
+### **Aplicación de Votación "La Bienal"** | Next.js, Node.js, SQL | 2024  
+- Desarrollo de plataforma web para votación interactiva con generación dinámica de códigos QR.  
+- Implementación de actualización en tiempo real para prevenir fraudes, mejorando la seguridad en un 40%.  
+- Trabajo en equipo bajo metodologías ágiles (Scrum).  
+
+### **Systex - Gestor de Pedidos** | Django, React | 2023  
+- Aplicación web con panel de administración para gestión de pedidos.  
+- Optimización de flujos de trabajo, aumentando productividad en un 80%.  
+
+---
+
+## 📚 Formación  
+**Ingeniería en Sistemas**  
+Universidad Tecnológica Nacional (UTN) | 2021–Presente  
+
+**Cursos Destacados:**  
+- Oracle ONE Latam (Frontend con React) | 2024  
+- Informatorio (Backend con Django) | 2023  
+
+---
+
+## 🌱 Actualmente Aprendiendo  
+- **Ciberseguridad**: Virtualización, redes, hardening.  
+- **DevOps**: Docker, Kubernetes, CI/CD con GitHub Actions.  
+- **Optimización de APIs**: Arquitecturas REST avanzadas.  
+
+---
+
+## 🎨 Intereses Personales  
+Cuando no estoy programando, disfruto del arte, la música (toco guitarra) y la lectura. Actualmente leyendo *"Sapiens"* de Yuval Noah Harari.  
+
+---
+
+## 📊 Estadisticas
+
+![Estadísticas de GitHub de Z0SO](https://github-readme-stats.vercel.app/api?username=universoparalelo&show_icons=true&theme=dark&count_private=true)
+![Estadísticas de commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=universoparalelo&theme=dark)
+
+---
+
+## 📬 ¿Trabajamos juntos?  
+Estoy abierta a colaboraciones, preguntas sobre mis proyectos u oportunidades profesionales.  
+📩 **Contacto:** [cmartinrodich@gmail.com](mailto:cmartinrodich@gmail.com) | [LinkedIn](https://linkedin.com/in/celeste-martin-rodich)  
