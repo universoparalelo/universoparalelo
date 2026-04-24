@@ -2,10 +2,10 @@
 
 ### Desarrolladora en transición a Ciberseguridad Ofensiva
 
-📍 Resistencia, Chaco, Argentina
-📧 cmartinrodich@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/celeste-martin-rodich)
-🎓 Ingeniería en Sistemas — UTN (3er año)
+📍 Resistencia, Chaco, Argentina  
+📧 cmartinrodich@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/celeste-martin-rodich)  
+🎓 Ingeniería en Sistemas — UTN (3er año)  
 
 ---
 
@@ -51,7 +51,7 @@ con foco en aplicaciones web y seguridad ofensiva.
 
 ## Proyectos
 
-### 🔧 [cify]([link al repo](https://github.com/universoparalelo/cify))
+### 🔧 [cify](https://github.com/universoparalelo/cify)
 *Herramienta de línea de comandos para guardar y gestionar contraseñas de forma segura usando cifrado AES-256.*
 `Python` — desarrollado como parte del proceso de aprendizaje en sec.
 
@@ -74,10 +74,10 @@ Antes de pivotar a seguridad trabajé en:
 
 ## Formación
 
-**Ingeniería en Sistemas** · UTN · 2022–Presente (5to año)
-**Hack4iu** - Pentesting - Presente
-**Oracle ONE Latam** — Frontend con React · 2024
-**Informatorio** — Backend con Django · 2023
+**Ingeniería en Sistemas** · UTN · 2022–Presente (5to año)  
+**Hack4iu** - Pentesting - Presente  
+**Oracle ONE Latam** — Frontend con React · 2024  
+**Informatorio** — Backend con Django · 2023  
 
 ---
 
